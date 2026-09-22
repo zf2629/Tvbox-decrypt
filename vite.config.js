@@ -6,7 +6,7 @@ import vue2 from '@vitejs/plugin-vue2'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Tvbox-decrypt/',
+  base: 'https://zf2629.github.io/Tvbox-decrypt/',
   
   plugins: [
     vue2(),
